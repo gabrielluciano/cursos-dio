@@ -8,3 +8,5 @@ This repository contains my files from the courses I took on the [Digital Innova
 
 - [Agile Projects with SCRUM](/cursos/projetos-ageis-com-scrum/)
 - [Introduction to Git and Github](/cursos/introducao-ao-git/)
+- [Introduction to website creation with HTML5 and CSS3](/cursos/introducao-ao-html5-e-css3/)
+

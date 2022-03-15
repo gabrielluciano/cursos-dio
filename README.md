@@ -8,3 +8,4 @@ Este repositório contém meus arquivos dos cursos que realizei na plataforma [D
 
 - [Projetos Ágeis com SCRUM](/cursos/projetos-ageis-com-scrum/)
 - [Introdução ao Git e ao Github](/cursos/introducao-ao-git/)
+- [Introdução a criação de websites com HTML5 e CSS3](/cursos/introducao-ao-html5-e-css3/)
