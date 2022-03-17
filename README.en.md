@@ -10,3 +10,4 @@ This repository contains my files from the courses I took on the [Digital Innova
 - [Introduction to Git and Github](/cursos/introducao-ao-git/)
 - [Introduction to website creation with HTML5 and CSS3](/cursos/introducao-ao-html5-e-css3/)
 - [Essential ES6 JavaScript](/cursos/javascript-es6-essencial/)
+- [Advanced ES6 JavaScript](/cursos/javascript-es6-avancado/)

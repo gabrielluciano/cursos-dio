@@ -10,3 +10,4 @@ Este repositório contém meus arquivos dos cursos que realizei na plataforma [D
 - [Introdução ao Git e ao Github](/cursos/introducao-ao-git/)
 - [Introdução a criação de websites com HTML5 e CSS3](/cursos/introducao-ao-html5-e-css3/)
 - [JavaScript ES6 Essencial](/cursos/javascript-es6-essencial/)
+- [JavaScript ES6 Avançado](/cursos/javascript-es6-avancado/)
